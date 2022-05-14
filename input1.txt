@@ -1,0 +1,6 @@
+a2r 1999
+a2r 2000
+a2r 2022
+r2a MCMXLIX
+r2a MM
+r2a MMXXII

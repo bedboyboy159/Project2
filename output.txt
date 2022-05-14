@@ -1,0 +1,7 @@
+Arabic     <-->     Roman 
+1999        --->     MCMXCIX
+2000        --->     MM
+2022        --->     MMXXII
+1949       <---      MCMXLIX 
+2000       <---      MM 
+2022       <---      MMXXII 
